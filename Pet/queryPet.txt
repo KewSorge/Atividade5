@@ -1,0 +1,1 @@
+create table cliPet (id int(10) AUTO_INCREMENT PRIMARY KEY,nomeP varchar(25),tipoP varchar(30),raca varchar(30),idade varchar(3),tel varchar(25),dono varchar(40)) 
