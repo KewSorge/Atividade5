@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    font-family:Times New Roman, Times, serif;
+    width: 100%;
+    height :100%;
+}
+
+#tabela, td, th ,tr.table,tbody{
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+    height :100%;
+}
+div{
+border:5px solid black;
+width: 100%;
+height :100%;
+}
+p,h1{
+    text-align: center;
+}
